@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# diploma
-=======
 ## Project name:
 ### Todo List application
 
@@ -83,4 +80,3 @@ This application helps users to create tasks, complete or/and delete them.
 <div>
 <img alt="*" src="./readmeImg/LogOut.jpg"/>
 </div>
->>>>>>> 7b9bdc2 (v1)
